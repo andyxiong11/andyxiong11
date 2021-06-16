@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 欢迎访问我的GitHub 👋
 
-<!-- -->
+<!--
 **andyxiong11/andyxiong11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
+
+- 我现在是一名在武汉打工的码农
 
 ![](https://github-readme-stats.vercel.app/api?username=andyxiong11)
