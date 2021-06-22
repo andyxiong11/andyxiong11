@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 我现在是一名在武汉打工的码农
+- 一名在武汉打工的码农
 
 ![](https://github-readme-stats.vercel.app/api?username=andyxiong11)
